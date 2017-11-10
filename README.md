@@ -3,4 +3,4 @@
 My 8ball does just that. Not only isn't it unbiased, 
 but it's the greatest/most accurate 8ball ever folks!
 
-* I do not condone nor am responsible for using the 8ball to make life decisions *
+*I do not condone nor am responsible for using the 8ball to make life decisions*
